@@ -1,1 +1,0 @@
-{"version":3,"file":"company.mock.js","sourceRoot":"","sources":["../../../src/agent/data/company.mock.ts"],"names":[],"mappings":";;;AAAa,QAAA,WAAW,GAAG;IACzB,WAAW,EAAE,mBAAmB;IAChC,YAAY,EAAE,mCAAmC;IACjD,YAAY,EAAE,kDAAkD;IAChE,aAAa,EAAE,+DAA+D;CAC/E,CAAC"}
